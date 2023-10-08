@@ -1,7 +1,7 @@
 # py-cutaudio
 Simple audio file cutting command.
 
-## Dependencies
+## Installation
 ```
 pip install -r requirements.txt
 ```
